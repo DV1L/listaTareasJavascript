@@ -1,0 +1,26 @@
+body {
+    font-family: Louis George Cafe;
+    text-align: center;
+    margin: 20px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+button {
+    background: linear-gradient(45deg, #009cfd, #983bd2);
+    color: white;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 8px;
+    border: none;
+    font-family: Mersad;
+    font-weight: 500;
+    font-size: 16px;
+}
